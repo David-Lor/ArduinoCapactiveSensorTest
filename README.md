@@ -1,6 +1,6 @@
 # ArduinoCapactiveSensorTest
 
-An Arduino sketch for trying several aluminum foil capacitive switches using the CapacitiveSensor library, featuring:
+An Arduino sketch for trying several aluminum foil capacitive switches using the [CapacitiveSensor](https://playground.arduino.cc/Main/CapacitiveSensor?from=Main.CapSense) library, featuring:
 
 * Define multiple switches in array
 * Change the detection threshold via Serial
